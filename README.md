@@ -12,4 +12,5 @@ And lists too:
 
 For more information about Markdown syntax, see the [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
 
-# this is just a comment
+## this is just a comment
+### this is so fun and i'm learning a lot 
